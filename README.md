@@ -1,7 +1,9 @@
-# DNA Analyzer Project
+# DNA Analyzer System Project
 ## C++ Project
 
-This project is an OOP project, with the goal of creating an application for manipulating DNA sequences.
+This project is an OOP project.
+
+The goal of the system is to load, analyze, manipulate and save DNA sequences.
 
 Designed to handle large amounts of memory efficiently.
 
